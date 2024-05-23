@@ -1,0 +1,12 @@
+1. thunder client install vs code react extention
+2. ES7 React/Redux/GraphQL/React-Native snippetss
+3. Bracket Pair Colorizer
+4. Auto Rename Tag
+5. Live server
+5. Prettier - Code formatter
+
+======== React ========
+6. npx create-reaxt-app my-app
+7. function react cmd  === rfc
+8. Ptoptype cmd === impt
+9. state cmd = imrs
