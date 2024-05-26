@@ -20,6 +20,8 @@ users/home ------> component 2
 2. "homepage": "https://myusername.github.io/my-app", package.json
 3. npm install --save gh-pages
 4. remove package.json file se "homepage": "https://Govind-Patel.github.io/react-my-app",
-5.certbot of nginx
+5.certbot of nginx  == SSL/TLS Certificate
     sudo apt-get install certbot
     apt-get install python3-certbot-nginx
+    nginx -t && nginx -s reload
+    sudo certbot --nginx -d example.com -d www.example.com
